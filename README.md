@@ -40,3 +40,52 @@ Hello, I'm Walter. I'm Backend web developer.
 ## Contact Me
 - 📧 Email: [fariaswalter95@gmail.com](mailto:fariaswalter95@gmail.com)
 - 💼 LinkedIn: [Walter Farias](https://www.linkedin.com/in/walter-farias-019b70257)
+
+<!-- 
+TODO: Add projects block
+
+Example:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Friendly Wars Discord Bot</h3>
+      <div align="center">
+        <a href="https://github.com/Luke-Bytes/TeamsDiscordBot" target="_blank">
+          <img src="https://i.imgur.com/hCizO7o.png" style="height: auto; object-fit: contain; max-width: 100%;" alt="Friendly Wars Discord Bot">
+        </a>
+        <p>
+          <a href="https://github.com/Luke-Bytes/TeamsDiscordBot" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-FFD700?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          Discord Bot created for competitive <strong>Minecraft Annihilation</strong> gamemode.
+          Creating <strong>teams</strong>, managing <strong>player IGNs and punishments</strong>, 
+          unique <strong>ELO rating system</strong>, and much more.<br>
+          Created by Luke-Bytes and OscarPM24
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Webpage for ITICBCN</h3>
+      <div align="center">
+        <a href="https://github.com/KeydarItamar/Proyecte-Itic-web" target="_blank">
+          <img src="https://i.imgur.com/PiqYUwS.png" style="height: auto; object-fit: contain; max-width: 100%;" alt="Webpage for ITICBCN">
+        </a>
+        <p>
+          <a href="https://github.com/KeydarItamar/Proyecte-Itic-web" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-FFD700?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          Final academic project for the <strong>Institut TIC de Barcelona</strong>. Redesigned the original
+          <strong>page layout and content</strong>, developed high-level wireframes and implemented an <strong>AI assistant</strong>.
+          <br>
+          Created by Itamar Keydar, Luis Cornejo and Oscar Pérez
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+-->
