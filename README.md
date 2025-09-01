@@ -5,8 +5,8 @@ Hello, I'm Walter. I'm Backend web developer.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walter-farias-019b70257)
 
 ## About Me
+-  Systems Analyst
 -  Ssr Backend Web Developer
--  Systems Analyst Student
 -  Passionate about programming & video games
 -  My goal: Software Architect
 
